@@ -9,7 +9,11 @@ Analyzing feature dependencies using a Correlation Matrix to identify informativ
 Regression Modeling: Implementing and training the most suitable regression model to predict developer salaries based on the processed features.
 
 Technologies Used:
+
 Python (Jupyter Notebook) 
+
 Pandas & NumPy for data manipulation.
+
 Matplotlib & Seaborn for data visualization.
+
 Scikit-Learn for regression modeling.
